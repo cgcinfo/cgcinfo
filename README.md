@@ -47,4 +47,3 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
 </div>
-![Snake animation](https://github.com/cgcinfo/cgcinfo/blob/output/github-contribution-grid-snake.svg)
